@@ -9,8 +9,15 @@ Front End Master Courses
 * Review 8/10
 
 ## First Look: ChatGPT API for Web Developers
-* [URL]([https://frontendmasters.com/courses/next-js-v3/](https://frontendmasters.com/courses/chatgpt-api/))
+* [URL](https://frontendmasters.com/courses/chatgpt-api/)
 * [Notes](https://github.com/firtman/chatgpt-webdev/blob/main/slides.pdf)
 * [Codes](https://github.com/firtman/chatgpt-webdev)
 * Finished 15/10/23
 * Review 5/10
+
+## Introduction to Node.js, v3
+* [URL](https://frontendmasters.com/courses/node-js-v3/)
+* [Notes](https://scottmoss.notion.site/scottmoss/Intro-to-Node-js-V3-7c8e4ccaebf94b839f425fff13dcc44c)
+* [Codes](https://github.com/Hendrixer/intro-node-v3)
+* Finished 10/10/23
+* Review 7/10
