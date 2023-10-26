@@ -19,5 +19,5 @@ Front End Master Courses
 * [URL](https://frontendmasters.com/courses/node-js-v3/)
 * [Notes](https://scottmoss.notion.site/scottmoss/Intro-to-Node-js-V3-7c8e4ccaebf94b839f425fff13dcc44c)
 * [Codes](https://github.com/Hendrixer/intro-node-v3)
-* Finished 10/10/23
+* To be watch
 * Review 7/10
