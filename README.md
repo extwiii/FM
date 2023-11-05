@@ -128,4 +128,6 @@
 
 ## [Previous FM Path](https://github.com/extwiii/FM-Path)
 
+## [Previous Pluralsight Path](https://github.com/extwiii/Pluralsight-University)
+
 
