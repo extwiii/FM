@@ -6,6 +6,8 @@
 ## Enterprise Cloud Infrastructure
 * [URL](https://frontendmasters.com/courses/enterprise-devops/three-ws/)
 * [Codes](https://github.com/ALT-F4-LLC/fem-eci-presentation)
+* Finished 10/11/23
+* Review 7/10
 
 ## Bare Metal JavaScript: The JavaScript Virtual Machine
 * [URL](https://frontendmasters.com/courses/javascript-cpu-vm/)
