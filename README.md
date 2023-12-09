@@ -2,17 +2,23 @@
 
 # FM - Front End Master Courses
 
+## The Last Algorithms Course You'll Need
+* [URL](https://frontendmasters.com/courses/algorithms/)
+* [Notes](https://theprimeagen.github.io/fem-algos/)
+* [Codes](https://github.com/ThePrimeagen/kata-machine)
+* Finished 1/12/23
+* Review 7/10
 
 ## Enterprise Cloud Infrastructure
 * [URL](https://frontendmasters.com/courses/enterprise-devops/three-ws/)
 * [Codes](https://github.com/ALT-F4-LLC/fem-eci-presentation)
-* Finished 10/11/23
-* Review 7/10
+* Finished 7/12/23
+* Review 8`/10
 
 ## Bare Metal JavaScript: The JavaScript Virtual Machine
 * [URL](https://frontendmasters.com/courses/javascript-cpu-vm/)
 * [Codes](https://github.com/mhevery/JavaScriptVM_under_the_hood/)
-* Finished 02/11/23 
+* Finished 2/11/23 
 * Review 6/10
 
 ## Building a Slack Chat Bot
@@ -37,7 +43,6 @@
 ## Build an AI-Powered Fullstack Next.js App, v3
 * [URL](https://frontendmasters.com/courses/fullstack-app-next-v3/)
 * [Codes](https://github.com/Hendrixer/fullstack-ai-nextjs)
-* [Project Files]()
 * Finished 25/10/23 
 * Review 10/10
 
