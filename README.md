@@ -2,18 +2,49 @@
 
 # FM - Front End Master Courses
 
+## Angular Fundamentals
+
+## Test Your JavaScript Knowledge
+
+## Advanced Web Development Quiz
+* [URL](https://frontendmasters.com/courses/web-dev-quiz/)
+* Finished 9/12/23
+* Review 8/10
+
+## A Tour of JavaScript & React Patterns
+* [URL](https://frontendmasters.com/courses/tour-js-patterns/)
+* [Notes](https://javascriptpatterns.vercel.app/patterns)
+* Finished 8/12/23
+* Review 8/10
+
+## Professional JavaScript
+
+## The Last Algorithms Course You'll Want (Part 2)
+
+## HTMX and Go
+
+## Blazingly Fast JavaScript
+
+## Engineering Management 102
+
+## Engineering Management 101
+
+## TailwindCSS
+
+## Vite
+
 ## The Last Algorithms Course You'll Need
 * [URL](https://frontendmasters.com/courses/algorithms/)
 * [Notes](https://theprimeagen.github.io/fem-algos/)
 * [Codes](https://github.com/ThePrimeagen/kata-machine)
-* Finished 1/12/23
+* Finished 10/11/23
 * Review 7/10
 
 ## Enterprise Cloud Infrastructure
 * [URL](https://frontendmasters.com/courses/enterprise-devops/three-ws/)
 * [Codes](https://github.com/ALT-F4-LLC/fem-eci-presentation)
-* Finished 7/12/23
-* Review 8`/10
+* Finished 7/11/23
+* Review 8/10
 
 ## Bare Metal JavaScript: The JavaScript Virtual Machine
 * [URL](https://frontendmasters.com/courses/javascript-cpu-vm/)
