@@ -6,6 +6,11 @@
 
 ## Test Your JavaScript Knowledge
 
+## Practical Problem Solving with Algorithms
+* [URL](https://frontendmasters.com/courses/algorithms-practice/)
+* Finished 11/12/23
+* Review 7/10
+
 ## Advanced Web Development Quiz
 * [URL](https://frontendmasters.com/courses/web-dev-quiz/)
 * Finished 9/12/23
