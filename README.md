@@ -4,6 +4,9 @@
 
 ## Website Accessibility, v3
 
+## TypeScript 5+ Fundamentals, v4
+* [URL](https://frontendmasters.com/courses/typescript-v4/type-guards/)
+
 ## Angular Fundamentals
 
 ## Test Your JavaScript Knowledge
