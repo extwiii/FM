@@ -6,6 +6,10 @@
 
 ## TypeScript 5+ Fundamentals, v4
 * [URL](https://frontendmasters.com/courses/typescript-v4/type-guards/)
+* [Notes](https://www.typescript-training.com/course/fundamentals-v4)
+* [Codes](https://github.com/mike-north/typescript-courses)
+* Finished 18/12/23
+* Review 8/10
 
 ## Angular Fundamentals
 
