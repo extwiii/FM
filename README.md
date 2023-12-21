@@ -4,6 +4,9 @@
 
 ## Website Accessibility, v3
 
+## Intermediate TypeScript, v2
+* [URL](https://frontendmasters.com/courses/intermediate-typescript-v2/)
+
 ## TypeScript 5+ Fundamentals, v4
 * [URL](https://frontendmasters.com/courses/typescript-v4/type-guards/)
 * [Notes](https://www.typescript-training.com/course/fundamentals-v4)
