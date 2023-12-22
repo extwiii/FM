@@ -6,6 +6,10 @@
 
 ## Intermediate TypeScript, v2
 * [URL](https://frontendmasters.com/courses/intermediate-typescript-v2/)
+* [Notes](https://www.typescript-training.com/course/intermediate-v2)
+* [Codes](https://github.com/mike-north/typescript-courses)
+* Finished 20/12/23
+* Review 7/10
 
 ## TypeScript 5+ Fundamentals, v4
 * [URL](https://frontendmasters.com/courses/typescript-v4/type-guards/)
