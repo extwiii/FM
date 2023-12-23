@@ -6,8 +6,8 @@
 
 ## Fullstack TypeScript (feat. GraphQL & Node.js)
 * [URL](https://frontendmasters.com/courses/fullstack-typescript/)
-* [Notes]()
-* [Codes]()
+* [Notes](https://www.typescript-training.com/course/full-stack-typescript)
+* [Codes](https://github.com/mike-north/full-stack-ts)
 * Finished 22/12/23
 * Review 7/10
 
