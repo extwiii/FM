@@ -4,6 +4,8 @@
 
 ## Enterprise TypeScript
 * [URL](https://frontendmasters.com/courses/enterprise-typescript/)
+* [Notes](https://www.typescript-training.com/course/enterprise-v2)
+* [Codes](https://github.com/mike-north/typescript-courses)
 
 ## Enterprise Accessibility
 
