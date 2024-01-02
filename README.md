@@ -6,6 +6,8 @@
 * [URL](https://frontendmasters.com/courses/enterprise-typescript/)
 * [Notes](https://www.typescript-training.com/course/enterprise-v2)
 * [Codes](https://github.com/mike-north/typescript-courses)
+* Finished 29/12/23
+* Review 7/10
 
 ## Enterprise Accessibility
 
