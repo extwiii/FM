@@ -69,6 +69,11 @@
 ## TailwindCSS
 
 ## Vite
+* [URL](https://frontendmasters.com/courses/vite/)
+* [Notes](https://vite-workshop.vercel.app/introduction)
+* [Codes](https://github.com/stevekinney/vite-starter)
+* Finished 12/11/23
+* Review 7/10
 
 ## The Last Algorithms Course You'll Need
 * [URL](https://frontendmasters.com/courses/algorithms/)
