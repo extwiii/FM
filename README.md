@@ -67,6 +67,8 @@
 ## Engineering Management 101
 
 ## TailwindCSS
+* [URL](https://frontendmasters.com/courses/tailwind-css/)
+
 
 ## Vite
 * [URL](https://frontendmasters.com/courses/vite/)
