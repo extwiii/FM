@@ -68,6 +68,9 @@
 
 ## TailwindCSS
 * [URL](https://frontendmasters.com/courses/tailwind-css/)
+* [Notes](https://tailwind-workshop.vercel.app/introduction)
+* Finished 15/11/23
+* Review 7/10
 
 
 ## Vite
