@@ -65,6 +65,8 @@
 ## Engineering Management 102
 
 ## Engineering Management 101
+* Finished 18/11/23
+* Review 8/10
 
 ## TailwindCSS
 * [URL](https://frontendmasters.com/courses/tailwind-css/)
