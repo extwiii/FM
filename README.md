@@ -63,7 +63,9 @@
 ## Blazingly Fast JavaScript
 
 ## Engineering Management 102
-
+* Finished 21/11/23
+* Review 8/10
+  
 ## Engineering Management 101
 * Finished 18/11/23
 * Review 8/10
