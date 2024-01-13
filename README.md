@@ -61,6 +61,8 @@
 ## HTMX and Go
 
 ## Blazingly Fast JavaScript
+* Finished 24/11/23
+* Review 7/10
 
 ## Engineering Management 102
 * Finished 21/11/23
