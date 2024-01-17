@@ -69,6 +69,7 @@
 * Review 8/10
   
 ## Engineering Management 101
+* [URL](https://frontendmasters.com/courses/intro-management/)
 * Finished 18/11/23
 * Review 8/10
 
