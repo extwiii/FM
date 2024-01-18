@@ -70,6 +70,7 @@
   
 ## Engineering Management 101
 * [URL](https://frontendmasters.com/courses/intro-management/)
+* [Notes](https://static.frontendmasters.com/assets/courses/2024-01-14-intro-management/intro-management-slides.pdf)
 * Finished 18/11/23
 * Review 8/10
 
@@ -78,7 +79,6 @@
 * [Notes](https://tailwind-workshop.vercel.app/introduction)
 * Finished 15/11/23
 * Review 7/10
-
 
 ## Vite
 * [URL](https://frontendmasters.com/courses/vite/)
