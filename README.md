@@ -65,6 +65,7 @@
 * Review 7/10
 
 ## Engineering Management 102
+* [URL](https://frontendmasters.com/courses/engineering-management/)
 * Finished 21/11/23
 * Review 8/10
   
