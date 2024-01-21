@@ -59,6 +59,8 @@
 ## The Last Algorithms Course You'll Want (Part 2)
 
 ## HTMX and Go
+* Finished 27/11/23
+* Review 7/10
 
 ## Blazingly Fast JavaScript
 * Finished 24/11/23
