@@ -57,6 +57,8 @@
 ## Professional JavaScript
 
 ## The Last Algorithms Course You'll Want (Part 2)
+* Finished 1/12/23
+* Review 7/10
 
 ## HTMX and Go
 * Finished 27/11/23
