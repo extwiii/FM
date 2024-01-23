@@ -55,6 +55,8 @@
 * Review 8/10
 
 ## Professional JavaScript
+* Finished 5/12/23
+* Review 7/10
 
 ## The Last Algorithms Course You'll Want (Part 2)
 * Finished 1/12/23
