@@ -37,6 +37,8 @@
 ## Angular Fundamentals
 
 ## Test Your JavaScript Knowledge
+* Finished 14/12/23
+* Review 7/10
 
 ## Practical Problem Solving with Algorithms
 * [URL](https://frontendmasters.com/courses/algorithms-practice/)
