@@ -35,6 +35,8 @@
 * Review 8/10
 
 ## Angular Fundamentals
+* Finished 16/12/23
+* Review 9/10
 
 ## Test Your JavaScript Knowledge
 * Finished 14/12/23
