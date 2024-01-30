@@ -12,6 +12,8 @@
 ## Enterprise Accessibility
 
 ## Website Accessibility, v3
+* Finished 25/12/23
+* Review 7/10
 
 ## Fullstack TypeScript (feat. GraphQL & Node.js)
 * [URL](https://frontendmasters.com/courses/fullstack-typescript/)
