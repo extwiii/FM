@@ -73,6 +73,7 @@
 * Review 7/10
 
 ## Blazingly Fast JavaScript
+* [URL](https://frontendmasters.com/courses/blazingly-fast-js/)
 * Finished 24/11/23
 * Review 7/10
 
